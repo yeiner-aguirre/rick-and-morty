@@ -25,7 +25,7 @@ function App() {
   return (
     <body>
       <div>
-        <img className='image_header' src="./images/baner.jpg" alt="" />
+        <img className='image_header' src="images/intento3.png" alt="" />
         <div className='container'>
           <form className='form_header' onSubmit={handleSubmit}>
             <input className='input_header' ref={inputLocation} type="text" />
